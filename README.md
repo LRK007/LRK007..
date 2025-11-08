@@ -33,6 +33,13 @@ return (
           <li><strong>Focus:</strong> Metallography, heat treatment, corrosion, materials characterization</li>
         </ul>
       </div>
+      <div className="flex justify-center">
+       <img
+          src="/laila.jpg"
+          alt="Laila R K"
+          className="w-64 h-64 rounded-2x1 object-cover shadow-md border border-slate-100"
+          />
+          </div>
 
       <div className="p-6 bg-slate-50 rounded-2xl shadow-sm">
         <h3 className="text-lg font-semibold">Academic Snapshot</h3>
