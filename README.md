@@ -1,4 +1,4 @@
-# LRK007..
+# Laila R K..
 export default function LailaPortfolio() { 
 return ( 
  <div className="min-h-screen bg-white text-slate-800 antialiased"> 
@@ -163,7 +163,7 @@ return (
   </main>
 
   <footer className="bg-white border-t border-slate-100">
-    <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-slate-500 text-center">© {new Date().getFullYear()} Laila R — Government College of Engineering, Salem-11</div>
+    <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-slate-500 text-center">© {new Date().getFullYear()} Laila R K — Government College of Engineering, Salem-11</div>
   </footer>
 </div>
 
